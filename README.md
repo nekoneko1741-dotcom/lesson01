@@ -1,4 +1,7 @@
 ﻿# Practice for GitHub
+
+This repository is for my GitHub practice in class. I'm following the steps below and keeping notes for myself.
+
 - Create GitHub account
   - Click the account icon and choose `Setting`.
   - Click `Developer setting` on the left menu.
