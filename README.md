@@ -12,3 +12,4 @@ This repository is for my GitHub practice in class. I'm following the steps belo
   - Click the green button on the bottom of page as `Generate token`.
   - Make sure to copy the token like `ghp_UyAV....` and to paste it to your memo.
 This line is added in Lesson 2.
+This line is added on main branch.
